@@ -16,6 +16,8 @@ Welcome to **adarsh47-bug/adarsh47-bug** – a ✨ _special_ ✨ place where cre
 
 - ⚡ **Fun fact:** I’m a tech enthusiast who loves pushing the boundaries of web development to create seamless user experiences.
 
+![My Workspace](images/image.png) 
+
 ---
 
 _I'm a passionate developer with a solid foundation in JavaScript, Java, C++, and C, and a flair for web development using the MERN stack. My skills extend to graphic design, where I enjoy bringing ideas to life through visuals. Collaboration and communication are my strengths, and I'm excited to contribute my expertise to innovative projects in programming, web development, and design._ 
