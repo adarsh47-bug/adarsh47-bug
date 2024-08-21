@@ -16,8 +16,6 @@ Welcome to **adarsh47-bug/adarsh47-bug** – a ✨ _special_ ✨ place where cre
 
 - ⚡ **Fun fact:** I’m a tech enthusiast who loves pushing the boundaries of web development to create seamless user experiences.
 
-## My Workspace
-
 <img src="workspace.png" alt="My Workspace" width="200" height="200"/>
 
 ---
