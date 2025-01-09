@@ -30,25 +30,6 @@ Here are some of the frameworks and languages I frequently use in my projects:
 
 ---
 
-### About Me
-<table>
-  <tr>
-    <td>
-      <ul>
-         <li><b>🔭 Currently working on:</b> Building responsive and interactive web interfaces using HTML, CSS, and modern frameworks like Bootstrap and Tailwind CSS.</li>
-         <li><b>🌱 Currently learning:</b> Advanced JavaScript concepts, focusing on ES6+ features and asynchronous programming.</li>
-         <li><b>👯 Looking to collaborate on:</b> MERN stack projects, especially those involving full-stack application development with MongoDB, Express.js, React.js, and Node.js.</li>
-         <li><b>💬 Ask me about:</b> Designing visually appealing graphics and presentations using Canva, as well as Java and other programming tasks in Python and C/C++.</li>
-         <li><b>📫 How to reach me:</b> <a href="https://www.linkedin.com/in/adarsh-kadam-3aa5b7248">LinkedIn</a></li>
-         <li><b>⚡ Fun fact:</b> I love experimenting with new web development tools and enhancing user interfaces for better user experiences.</li> 
-      </ul>
-    </td>
-    <td>
-      <img src="workspace.png" alt="My Workspace"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 I'm a full-stack developer passionate about building scalable applications and crafting intuitive user interfaces. Skilled in JavaScript, TypeScript, and the MERN stack, I strive to turn ideas into reality.
